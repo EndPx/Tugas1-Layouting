@@ -1,3 +1,4 @@
 # tugas1_layouting
 
-A new Flutter project.
+Nama : Muhammad Meidy Noor Al-Barry
+NIM : 123220079
